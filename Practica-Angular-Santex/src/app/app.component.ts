@@ -12,5 +12,10 @@ export class AppComponent {
     { name: 'Nombre 2', cost: '20' },
     { name: 'Nombre 3', cost: '30' }
   ];
+  showList = true;
+
+  toggleList(): void {
+    this.showList = !this.showList;
+  }
 }
 
