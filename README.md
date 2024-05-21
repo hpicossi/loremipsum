@@ -82,11 +82,6 @@ git clone https://github.com/hpicossi/loremipsum
 cd loremipsum
 ```
 
-3. Install the dependencies:
-
-```sh
-> INSERT-INSTALL-COMMANDS
-```
 
 ###  Running loremipsum
 
