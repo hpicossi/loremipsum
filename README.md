@@ -2,9 +2,6 @@
     <h1 align="center">LOREMIPSUM</h1>
 </p>
 <p align="center">
-    <em><code>► INSERT-TEXT-HERE</code></em>
-</p>
-<p align="center">
 	<img src="https://img.shields.io/github/license/hpicossi/loremipsum?style=flat&color=0080ff" alt="license">
 	<img src="https://img.shields.io/github/last-commit/hpicossi/loremipsum?style=flat&logo=git&logoColor=white&color=0080ff" alt="last-commit">
 	<img src="https://img.shields.io/github/languages/top/hpicossi/loremipsum?style=flat&color=0080ff" alt="repo-top-language">
